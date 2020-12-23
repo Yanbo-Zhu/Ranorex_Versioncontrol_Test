@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="435836d4-f608-4a49-930b-2d103a7b1194"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording2"
+	namespace="SourceControl_Test">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+	</recorditems>
+	<repository
+	id="285fbc35-c8be-441c-9ddb-f224d1087e38"
+	name="SourceControl_TestRepository"
+	relativepath="SourceControl_TestRepository.rxrep">
+		<codegen
+		classname="SourceControl_TestRepository"
+		namespace="SourceControl_Test">
+		</codegen>
+		<rootfolder
+		id="adb932d3-fd98-4b52-80f3-cf52188d1b6d"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording2.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
