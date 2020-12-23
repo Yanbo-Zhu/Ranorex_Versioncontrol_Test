@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="SourceControl_Test"
+      id="2688bda9-6880-4628-9951-bfdc5f5bf912"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="SourceControl_Test"
+      id="2688bda9-6880-4628-9951-bfdc5f5bf912"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

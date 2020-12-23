@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="SourceControl_TestRepository"
+id="285fbc35-c8be-441c-9ddb-f224d1087e38">
+  <codegen
+  classname="SourceControl_TestRepository"
+  namespace="SourceControl_Test"/>
+  <rootfolder
+  name="Root"
+  id="adb932d3-fd98-4b52-80f3-cf52188d1b6d"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>
