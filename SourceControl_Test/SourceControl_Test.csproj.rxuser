@@ -31,5 +31,23 @@
 			lastcodegentimestamp="132532120570113025">
 			</codegenfilechangeinfo>
 		</codegenfilechangeinfo>
+		<codegenfilechangeinfo
+		changehash="4650d03e-cf00-426d-393f-ccb0c6f090f1"
+		fileitemid="df97dc4e-4739-465a-882a-ae5053cf992a"
+		filelength="995"
+		lastcodegentimestamp="132532169618943930">
+			<codegenfilechangeinfo
+			changehash="d1864cfd-ffff-ffff-0000-000000000000"
+			fileitemid="b6378ae2-8431-4b00-b19a-cc5b97a3ceec"
+			filelength="2819"
+			lastcodegentimestamp="132532169618943930">
+			</codegenfilechangeinfo>
+			<codegenfilechangeinfo
+			changehash="eda68603-ffff-ffff-0000-000000000000"
+			fileitemid="4ec87ca4-40d4-44ce-ad81-83fb58bb09f9"
+			filelength="1123"
+			lastcodegentimestamp="132532169618943930">
+			</codegenfilechangeinfo>
+		</codegenfilechangeinfo>
 	</changestatecache>
 </projectusersettings>
